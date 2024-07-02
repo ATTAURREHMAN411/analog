@@ -1,0 +1,67 @@
+div {
+    height: 500px;
+    width: 1200px;
+    border: 4px solid #AF8260;
+    margin: 0 auto;
+    text-align: center;
+    line-height: 0;
+    margin-top: 30px;
+    padding-top: 10px;
+    background-color: #FBF3D5;
+    
+    
+    
+}
+.one {
+   height: 40px;
+   width: 700px;
+  border: 2px solid #AF8260;
+   text-align: start;
+   border-left: 0;
+   border-right: 0;
+   
+}
+a {
+    margin-left: 50px;
+    position: relative;
+    top: 10px;  
+    color:  #803D3B; 
+}
+.image {
+    width: 220px;
+    height: 195px;
+    position: relative;
+    top: 20px; 
+    
+}
+.image1 {
+    width: 220px;
+    height: 195px;
+    position: relative;
+    top: 20px; 
+    left: 8px;
+}
+.image2 {
+    width: 220px;
+    height: 195px;
+    position: relative;
+    top: 20px;
+    left: 4px;
+}
+p {
+    position: relative;
+    top: 20px;
+    font-size: 27px;
+    color:  #803D3B;
+
+}
+h1 {
+      color: #803D3B;      
+}
+h3 {
+    color: #DEAC80;
+}
+h4 {
+    color: #DEAC80;
+}
+
